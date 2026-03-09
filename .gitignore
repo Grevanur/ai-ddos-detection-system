@@ -7,6 +7,6 @@ __pycache__/
 data/ddos_balanced/
 data/ddos_imbalanced/
 data/ddos-datasets.zip
-
+data/dataset_sample.csv
 # models
 models/*.pkl
