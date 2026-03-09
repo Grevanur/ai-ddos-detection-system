@@ -41,6 +41,9 @@ Dataset source:
 
 https://www.unb.ca/cic/datasets/
 
+Note: The dataset is not included in this repository due to GitHub file size limits. 
+Instructions to download the dataset are provided in the setup section.
+
 The dataset includes features such as:
 
 Flow Duration
