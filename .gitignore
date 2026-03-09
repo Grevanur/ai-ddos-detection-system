@@ -1,5 +1,12 @@
 venv/
 __pycache__/
 *.pyc
+.DS_Store
+
+# datasets
+data/ddos_balanced/
+data/ddos_imbalanced/
+data/ddos-datasets.zip
+
+# models
 models/*.pkl
-.ipynb_checkpoints
